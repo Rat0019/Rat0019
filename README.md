@@ -10,10 +10,9 @@
 ---
 
 Feel free to customize this further as needed!- 👋 Hi, I’m @Rat0019
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Data Science 
+- 🌱 I’m currently learning Business Analytics 
+- 📫 How to reach me - admin@cobbextension.com
 
 <!---
 Rat0019/Rat0019 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
